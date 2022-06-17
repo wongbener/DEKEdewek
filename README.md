@@ -50,6 +50,7 @@ Open [http://localhost](http://localhost) in browser.
 - [Kerdle](https://kerdle.vercel.app/): Cornish/Kernewek (Standard Written Form)
 - [Latindictionary.io](https://wordle.latindictionary.io/): Latin
 - [Lexoula](https://lexoula.com/): Ελληνικά (Greek)
+- [Tebak Kata](https://tebakkata.id/): Bahasa Indonesia
 - [Malay](https://malay-wordle.netlify.app/): Bahasa Malaysia
 - [Mondle](https://mondle.vercel.app/): Mongolian
 - [Parolette](https://parolette.netlify.app/): Italian
