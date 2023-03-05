@@ -117,6 +117,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Latindictionary.io](https://wordle.latindictionary.io/): Latin
 - [Lexoula](https://lexoula.com/): Ελληνικά (Greek)
 - [Malay](https://malay-wordle.netlify.app/): Bahasa Malaysia
+- [Indonesian](https://gameonline.co.id/g/tebak-kata): Bahasa Indonesia
 - [Mondle](https://mondle.vercel.app/): Mongolian
 - [Parig](https://www.parig.xyz/): Western Armenian
 - [Parolette](https://parolette.netlify.app/): Italian
